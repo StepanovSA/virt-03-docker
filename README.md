@@ -161,3 +161,4 @@ services:
 ```
 docker compose down --remove-orphans
 ```
+![alt text](https://github.com/StepanovSA/virt-03-docker/blob/main/Ex5.9.PNG)
